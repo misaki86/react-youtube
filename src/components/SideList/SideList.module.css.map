@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,QAAQ,CAAC;EACL,KAAK,EAAE,KAAK;EACZ,UAAU,EAAE,KAAK;EACjB,OAAO,EAAE,IAAI;CAKhB;;AAJG,MAAM,CAAC,MAAM,MAAM,SAAS,EAAE,KAAK;EAJvC,AAAA,QAAQ,CAAC;IAKD,KAAK,EAAE,GAAG;IACV,MAAM,EAAE,SAAS;GAExB",
+    "sources": [
+        "SideList.module.scss"
+    ],
+    "names": [],
+    "file": "SideList.module.css"
+}
